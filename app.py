@@ -29,7 +29,6 @@
         "trusted": True
       },
       "outputs": [],
-      "execution_count": null
     }
   ]
 }
